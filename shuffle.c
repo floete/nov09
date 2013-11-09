@@ -22,7 +22,6 @@ void Print()
 	printf("\n");
 }
 
-
 void Shuffle()
 {
 	int tmp, r1, r2;
