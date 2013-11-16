@@ -13,9 +13,11 @@ int main()
 	for(i=0;i<3;i++)
 	{
 		fgets(s, 256, fpA);
-		printf("%s",s);
+		fputs(s,stdout);
+		//printf("%s",s);
 		fgets(s, 256, fpB);
-		printf("%s",s);
+		fputs(s,stdout);
+		//printf("%s",s);
 	}
 	
 	fclose(fpA);
