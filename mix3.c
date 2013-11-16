@@ -19,7 +19,7 @@ int main(int argc, char* argv[])
 	if(argc != 3)
 	{
 		printf("引数の数が不適切です。\n");
-		printf("./a.exe fileB.txt, fileA.txt \n");
+		printf("./a.exe fileA.txt, fileB.txt \n");
 		return -1;
 	}
 	
