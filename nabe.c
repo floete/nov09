@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define N 150
+#define N 110
 #define PRINT_NABE(val) (printf("%d!!\n",val))
 
 
