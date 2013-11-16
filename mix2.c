@@ -10,7 +10,6 @@ int main()
 	
 	int i;
 	char s[BUF_SIZE];
-	printf("start\n");
 	while(1)
 	{
 
